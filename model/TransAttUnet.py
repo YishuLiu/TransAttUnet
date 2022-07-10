@@ -1,6 +1,6 @@
 from .unet_parts import *
-from .unet_parts_att2_transformer import *
-from .unet_parts_att3_multiscale import *
+from .unet_parts_att_transformer import *
+from .unet_parts_att_multiscale import *
 
 class UNet_Attention_Transformer_Multiscale(nn.Module):
     def __init__(self, n_channels, n_classes, bilinear=True):
