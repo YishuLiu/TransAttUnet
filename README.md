@@ -3,7 +3,7 @@ This is a PyTorch implementation of the paper https://arxiv.org/abs/2107.05274.
 
 
 ### Pretrained models
-Download from [BaiduDisk](https://pan.baidu.com/s/10frUp9rtnujCryeKgUMX_w), Password: qtv0.
+Download from [BaiduDisk](https://pan.baidu.com/s/13QdMaiqNuB58Th9_rCqz0w?pwd=x6ee), Password:x6ee.
 
 
 ### **Citation**   
